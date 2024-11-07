@@ -29,7 +29,11 @@ Run the following command to install all required packages:
 ```bash
 pip install -r requirements.txt
 ```
-
+Above requirements.txt are selected manually by myself (11/6)
+If not enough...:
+```bash
+pip install -r requirements1.txt
+```
 ## Usage
 ### Running the Main Framework
 To run the main framework and generate CSV output along with visualizations:
