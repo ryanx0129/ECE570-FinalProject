@@ -96,7 +96,7 @@ python advanced_visualizations.py
 ### Supporting Modules
 - **`data_preprocessing.py`**: Contains utility functions for cleaning and preprocessing text data.
 - **`error_handling.py`**: Adds robust error handling to the main processes to ensure smooth operation and debugging.
-###Future Extensions
+### Future Extensions
 - **`Automated Adversarial Prompt Generation: Enhance adversarial generation using more complex algorithms.`**
 - **`Model Fine-Tuning`**: Further optimize models with extensive adversarial data.
 - **`Cross-Model Comparison`**: Expand testing to include a wider range of language models and architectures.
